@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FarmasiApp</string>
+    <string name="start">Start</string>
+    <string name="welcome_to_pharmacy_app">Welcome to Pharmacy App!</string>
+</resources>
